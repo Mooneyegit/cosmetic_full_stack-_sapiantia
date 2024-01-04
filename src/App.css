@@ -1,0 +1,29 @@
+.container{
+  background-image: url("/public/images/thel3.jpg") cover  ;
+  margin: 0;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.thin_paragraph{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.light_btn{
+  margin: 0;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
